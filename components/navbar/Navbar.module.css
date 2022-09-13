@@ -1,0 +1,15 @@
+.menu-container {
+	width: 90%;
+	height: 50px;
+	background-color: antiquewhite;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	gap: 1rem;
+}
+.active-link a {
+	color: blue;
+	font-size: 2rem;
+}
